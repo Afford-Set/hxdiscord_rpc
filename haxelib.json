@@ -13,8 +13,5 @@
 	"releasenote":"Fixed issues with reflection and dce.",
 	"contributors":[
 		"MAJigsaw77"
-	],
-	"dependencies":{
-		"hxcpp":""
-	}
+	]
 }
